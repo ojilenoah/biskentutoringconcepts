@@ -7,7 +7,7 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Bisilola Home and Online Tutoring - Certified Tutors for Your Child",
+  title: "Biskentutoringconcepts Home and Online Tutoring - Certified Tutors for Your Child",
   description:
     "Professional home and online tutoring services by certified teachers. Pre-school to secondary education, SATs, IELTS, GCSE/IGCSE and more. Helping children succeed with empathy and expertise.",
   generator: "v0.app",
